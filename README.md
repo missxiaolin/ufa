@@ -1,6 +1,6 @@
 # UFA Introduction
 
-UFA: Uniform Frontend Archiecture. A PHP composer plugin.
+UFA: Uniform Frontend Archiecture. A PHP composer plugin. 1
 
 # How to use?
 
