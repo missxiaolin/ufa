@@ -9,13 +9,13 @@ UFA: Uniform Frontend Archiecture. A PHP composer plugin. 1
  ```
  {
      "require": {
-         "angejia/ufa": "0.3.*",
+         "xiaolin/ufa": "0.3.*",
      },
      "repositories": {
-         "ufa": {
-             "type": "git",
-             "url": "git@git.corp.angejia.com:frontend/ufa.git"
-         }
+         // "ufa": {
+             // "type": "git",
+             // "url": "git@git.corp.angejia.com:frontend/ufa.git"
+         // }
      }
  }
  ```
